@@ -6,6 +6,7 @@ You can install libraries using pip.
 ```
 pip install PyQt5
 pip install pyqt5-tools
+pip install sqlite3
 ```
 
 And you can run program using python.
